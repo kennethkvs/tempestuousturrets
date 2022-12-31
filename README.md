@@ -6,4 +6,4 @@ Made with dedication, sleep deprivation, and Monster energy drink in Hack The No
 
 Go to [tempestuousturrets.tech](http://tempestuousturrets.tech/) to try it out! The website runs the game well and gives you a chance to play it, but for an even better experience, we high recommend that you download the game on your local machine. NOTE: To download it and play it, it is critical you have Unity installed along the corresponding environment set up and ready to go.
 
-For the full breakdown of the creation process and overall development of this project, please visit our [Devpost]([http://tempestuousturrets.tech/](https://devpost.com/software/tempestuous-turrets)).
+For the full breakdown of the creation process and overall development of this project, please visit our [Devpost](https://devpost.com/software/tempestuous-turrets).
